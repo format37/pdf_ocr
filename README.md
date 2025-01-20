@@ -51,7 +51,11 @@ extractor.extract_with_ocr()          # For OCR-based detection
 *Example of an embedded image extracted using PyMuPDF*
 
 ### Region Detection
-![Region Detection Example](assets/cv_page9_region2723.png)
+![Embedded Image Example](assets/cv_page9_region2723.png)
+*Example of an embedded image extracted using OpenCV*
+
+### Region Detection
+![OCR Region Detection Example](assets/ocr_page9_region1.png)
 *Example of a region automatically detected using computer vision techniques*
 
 ## How It Works
