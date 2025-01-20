@@ -1,0 +1,7 @@
+pdfplumber==0.11.5
+PyMuPDF
+pdf2image
+Pillow
+opencv-python
+pytesseract
+numpy
